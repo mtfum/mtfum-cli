@@ -1,6 +1,6 @@
 {
   "name": "mtfum",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The mtfum CLI",
   "bin": "src/cli.js",
   "files": [
