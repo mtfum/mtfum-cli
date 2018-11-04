@@ -3,7 +3,7 @@ The mtfum CLI
 
 ## ScreenShot
 
-<img src="ScreenShot.png" width="752">
+<img src="ScreenShot.png" width="400">
 
 ## Usage
 
