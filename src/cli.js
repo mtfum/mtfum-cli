@@ -12,7 +12,7 @@ const ui = importJsx('./ui')
 meow(`
 	Usage
 	  $ mtfum
-)
+`)
 
 const fallback = async () => {
   const image = await terminalImage.file(path.join(__dirname, 'avatar.png'))

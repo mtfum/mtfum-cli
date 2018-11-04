@@ -16,12 +16,6 @@ const handleSelect = item => {
 }
 
 const items = [
-  /*
-	{
-    label: 'Portfolio',
-    url: 'https://mtfum.work',
-  },
-	*/
   {
     label: 'Twitter',
     url: 'https://twitter.com/mtfum',
