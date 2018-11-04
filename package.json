@@ -1,0 +1,22 @@
+{
+  "name": "mtfum",
+  "version": "1.0.0",
+  "description": "mtfum CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mtfum/mtfum.git"
+  },
+  "author": "mtfum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtfum/mtfum/issues"
+  },
+  "homepage": "https://github.com/mtfum/mtfum#readme",
+  "dependencies": {
+    "ink": "^0.5.1"
+  }
+}
